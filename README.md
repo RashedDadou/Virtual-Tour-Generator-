@@ -21,16 +21,18 @@ Helix = Artificial Intelligence DNA** - Every idea is segmented and linked!**
 DNA Helix:
 
 ├── • Base pairs (A, T, G, C) = Colored lines
+
 ├── • Double strand = Separation + Joining
+
 └── • Twist = Forming the final shape
 
 ---
 
 ## 3. Practical application: ##
 
-✅ • Puzzles: "What is it..." → [Red line] + [Blue line] → 🔥 Fire
-✅ • Research: ML paper → 25 lines → Neural Net diagram
-✅ • Articles: News → [Fact][Check][Verify] → Truth Score
+• ✅ • Puzzles: "What is it..." → [Red line] + [Blue line] → 🔥 Fire
+• ✅ • Research: ML paper → 25 lines → Neural Net diagram
+• ✅ • Articles: News → [Fact][Check][Verify] → Truth Score
 
 ---
 
@@ -157,14 +159,20 @@ I tested the pipeline on the "Fire" puzzle + an ML essay:
 
 ✅ PROS:
 • Self-learning loop (spiral_study loop) = Intelligence
+
 • Previsualization before code = Genius
+
 • Single responsibility per function = Solid
+
 • Scalable to any topic (puzzles → research)
+
 • Instant visual understanding for the user
 
 ❌ CONS:
 • Slow turtle for long texts (>100 lines)
+
 • Too many Pylance warnings (needs cleanup)
+
 • Arabic handling needs improvement
 
 ## 4. Final Percentage Improvement: ##
