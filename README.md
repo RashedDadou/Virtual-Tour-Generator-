@@ -5,7 +5,9 @@ The idea is to convert the comment into colored lines, then separate and connect
 ---
 
 ## 1. Scientific innovation: ##
+
 Traditional: Reading → Analyzing → Writing
+
 Helix Pipeline: Separating → Studying → Connecting → Forming → Answering
 
 ↑ Helix visualization
