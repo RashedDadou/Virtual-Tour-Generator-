@@ -1,7 +1,7 @@
-## Virtual-Tour-Generator- ##
+# Virtual-Tour-Generator- #
 The Virtual Tour Generator project:  Designed to perform spiral virtual tours (generate, analyze, validate, and test) for AI functions, to analyze a textual idea (such as a description of a virtual scene) and convert it into ready-to-use Python code using the Turtle library, with steps including: text analysis, keyword extraction, etc.
 
-# Order of Functions for VirtualTour_Pipeline Tasks (from beginning to end) #
+## Order of Functions for VirtualTour_Pipeline Tasks (from beginning to end) ##
 
 1. __init__() # System Initialization
 2. helix_text_analyzer() # Concept Analysis (Separating lines)
@@ -13,7 +13,7 @@ The Virtual Tour Generator project:  Designed to perform spiral virtual tours (g
 8. test_tour() # Final Test
 9. full_analysis_pipeline() # Full Pipeline
 
-# Execution Flow: #
+## Execution Flow: ##
 
 __init__()
 
