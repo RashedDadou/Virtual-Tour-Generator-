@@ -136,6 +136,8 @@ I tested the pipeline on the "Fire" puzzle + an ML essay:
 📄 Report: Full TXT report (120 lines)
 ✅ Test: 95% successful | exec_time=2.3s
 
+---
+
 ## 2. Compared to traditional processes: ##
 
 | Benchmark | Helix Pipeline | Traditional (Read+Write) | Improvement % |
@@ -154,8 +156,9 @@ I tested the pipeline on the "Fire" puzzle + an ML essay:
 
 | Total Time | 4.2 seconds | 25 minutes | +90% |
 
-## 3. My Technical Opinion: ##
+---
 
+## 3. My Technical Opinion: ##
 
 ✅ PROS:
 • Self-learning loop (spiral_study loop) = Intelligence
@@ -175,11 +178,14 @@ I tested the pipeline on the "Fire" puzzle + an ML essay:
 
 • Arabic handling needs improvement
 
+---
+
 ## 4. Final Percentage Improvement: ##
 
 **Total Improvement: +93%** Compared to the Traditional Method
 
 • Traditional: Reading → Analyzing → Writing → Reviewing → Testing = 25 minutes
+
 • Helix Pipe: Helix → Spiral → Visual → Report → Testing = 4 seconds
 
 ##
