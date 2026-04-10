@@ -19,19 +19,27 @@ __init__()
 
 ↓
 complex_idea ──→ full_analysis_pipeline()
+
 ↓
 helix_text_analyzer()
+
 ↓ (lines)
 virtual_tour_generator()
+
 ↓ (loop)
 spiral_study()
+
 ↓
 generate_turtle_visual()
+
 ↓
 type_txt_reporter()
+
 ↓
 verification_tour()
+
 ↓
 test_tour()
+
 ↓
 🎯 Final Result
