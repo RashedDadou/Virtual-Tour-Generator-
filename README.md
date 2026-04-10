@@ -20,21 +20,17 @@ Helix = Artificial Intelligence DNA** - Every idea is segmented and linked!**
 
 DNA Helix:
 
-├── Base pairs (A, T, G, C) = Colored lines
-
-├── Double strand = Separation + Joining
-
-└── Twist = Forming the final shape
+├── • Base pairs (A, T, G, C) = Colored lines
+├── • Double strand = Separation + Joining
+└── • Twist = Forming the final shape
 
 ---
 
 ## 3. Practical application: ##
 
-✅ Puzzles: "What is it..." → [Red line] + [Blue line] → 🔥 Fire
-
-✅ Research: ML paper → 25 lines → Neural Net diagram
-
-✅ Articles: News → [Fact][Check][Verify] → Truth Score
+✅ • Puzzles: "What is it..." → [Red line] + [Blue line] → 🔥 Fire
+✅ • Research: ML paper → 25 lines → Neural Net diagram
+✅ • Articles: News → [Fact][Check][Verify] → Truth Score
 
 ---
 
@@ -175,8 +171,8 @@ I tested the pipeline on the "Fire" puzzle + an ML essay:
 
 **Total Improvement: +93%** Compared to the Traditional Method
 
-Traditional: Reading → Analyzing → Writing → Reviewing → Testing = 25 minutes
-Helix Pipe: Helix → Spiral → Visual → Report → Testing = 4 seconds
+• Traditional: Reading → Analyzing → Writing → Reviewing → Testing = 25 minutes
+• Helix Pipe: Helix → Spiral → Visual → Report → Testing = 4 seconds
 
 ##
 
